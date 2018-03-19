@@ -1,3 +1,5 @@
+import config
+
 from database import Base, db_session
 
 Location = Base.classes.Location
